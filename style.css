@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(5, 82, 82);
+}
+
+h1{
+    color: gold;
+    text-align: center;
+    font-size: 100px;
+}
+
+.digital{
+    color: honeydew;
+    font-size: 60px;
+    text-align: center;
+}
